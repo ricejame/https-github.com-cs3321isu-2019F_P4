@@ -15,7 +15,7 @@ namespace Aquire
     {
         // Variables
         private Tiles gameTiles;
-        private int players;
+
 
         
 
